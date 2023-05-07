@@ -1,2 +1,2 @@
-# VirtualSleepPet
+#Sleep Pet
 Graduation Project
